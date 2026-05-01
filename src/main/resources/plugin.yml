@@ -1,0 +1,10 @@
+name: Chowany
+version: 1.0
+main: pl.pcraft.chowany.ChowanyPlugin
+api-version: "1.21"
+author: Pcraft600
+description: Plugin chowanego - Arena Piekielna
+commands:
+  chowany:
+    description: Glowna komenda pluginu
+    usage: /chowany <start|stop|test>
